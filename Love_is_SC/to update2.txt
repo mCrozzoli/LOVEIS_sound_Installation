@@ -1,0 +1,23 @@
+SSH is a secure shell
+Raspberry Pi and Laptop need to be connected through the same WIFI
+Patchbox is the OS on Raspberry Pi.
+
+
+connect> ssh patch@192.168.43.17
+setup wizar > patchbox
+delete know host > ssh-keygen -R hostname(IP)
+
+copy to raspberry pi (do not log to patchbox)> scp -r C:\Love_is_SC patch@patchbox:
+
+
+C4:5C:09:36:15:11
+D8:D5:FA:6E:F2:D0
+
+sudo shutdown -r now
+
+esp8266 arduino windows setup
+
+To check on how is doing>
+systemctl --user status loveis -n 200
+systemctl --user restart loveis -n 200
+systemctl --user status miband-osc -n 200
