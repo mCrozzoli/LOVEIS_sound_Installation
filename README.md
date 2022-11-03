@@ -1,4 +1,4 @@
-# LOVE_sound_Installation
+# LOVEIS_sound_Installation
 A sound installation using motion sensors and heart rate monitors.
 
 read and see it here: http://crozzoli.com/?page_id=908
